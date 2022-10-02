@@ -1,6 +1,6 @@
 # Docker container with poetry + pyinstaller.
 
-For easy packaging off python projects.
+For easy packaging off poetry projects.
 
 ## USAGE
 ```bash
